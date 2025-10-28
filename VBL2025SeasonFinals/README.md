@@ -10,7 +10,7 @@
 [1_RoundWinBox_Regular.png](https://img.hsuddfps.com/VBL2025SeasonFinals/1_RoundWinBox_Regular.png)<br>
 [1_RoundWinBox_Nobii.png](https://img.hsuddfps.com/VBL2025SeasonFinals/1_RoundWinBox_Nobii.png)<br>
 <br>
-## Team Logos<br>
+## Team Logos (Test)<br>
 [TEST_JokerOfValorant.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_JokerOfValorant.png)<br>
 [TEST_DSEFIGHTERS.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_DSEFIGHTERS.png)<br>
 [TEST_ReiNatsu.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_ReiNatsu.png)<br>
