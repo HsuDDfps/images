@@ -11,16 +11,16 @@
 [1_RoundWinBox_Nobii.png](https://img.hsuddfps.com/VBL2025SeasonFinals/1_RoundWinBox_Nobii.png)<br>
 <br>
 ## Team Logos (Top 4)<br>
-[TEST_JokerOfValorant.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_JokerOfValorant.png)<br>
-[TEST_DSEFIGHTERS.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_DSEFIGHTERS.png)<br>
-[TEST_ReiNatsu.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_ReiNatsu.png)<br>
-[TEST_TBR2.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_TBR2.png)<br>
-<br>
-## Team Logos (Test)<br>
 [Logo_HEFIGHTERS](https://img.hsuddfps.com/VBL2025SeasonFinals/Logo_HEFIGHTERS.png)<br>
 [Logo_NaiLongGaming.png](https://img.hsuddfps.com/VBL2025SeasonFinals/Logo_NaiLongGaming.png)<br>
 [Logo_SMD.png](https://img.hsuddfps.com/VBL2025SeasonFinals/Logo_SMD.png)<br>
 [Logo_BigPinkBanana.png](https://img.hsuddfps.com/VBL2025SeasonFinals/Logo_BigPinkBanana.png)<br>
+<br>
+## Team Logos (Test)<br>
+[TEST_JokerOfValorant.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_JokerOfValorant.png)<br>
+[TEST_DSEFIGHTERS.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_DSEFIGHTERS.png)<br>
+[TEST_ReiNatsu.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_ReiNatsu.png)<br>
+[TEST_TBR2.png](https://img.hsuddfps.com/VBL2025SeasonFinals/TEST_TBR2.png)<br>
 <br>
 [...](https://img.hsuddfps.com/VBL2025SeasonFinals/)<br>
 
